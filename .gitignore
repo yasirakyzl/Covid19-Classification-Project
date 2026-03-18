@@ -17,8 +17,6 @@ venv.bak/
 .vscode/
 
 # Project specific
-outputs/figures/*
-!outputs/figures/.gitkeep
 outputs/models/*
 !outputs/models/.gitkeep
 data/raw/*
